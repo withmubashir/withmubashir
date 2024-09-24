@@ -3,8 +3,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD92B&width=435&lines=I+am+a+Ai+%26+Chatbot+Developer+;I+am+a+Freelancer;I+am+Learning+Modern+Web+Application+Development+" alt="Typing SVG" /></a>
 
-</br>
-<img align="right" alt="coding" width="40%" height="40%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE0bmFnbHVpbHpheHR1N3pveWs5d2owdWJhbmdjdGtmZXl1aHFhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirhussaini&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirhussaini" /> </p>
 
