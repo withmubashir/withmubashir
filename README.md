@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/withmubashirr" target="blank"><img src="https://img.shields.io/twitter/follow/withmubashirr?logo=twitter&style=for-the-badge" alt="withmubashirr" /></a> </p>
 
-- 📓 I’m currently learning **Modern Web Application Development**
+- 📓 I’m currently learning **Cloud Data Engineering**
 
 - ✨ Favorite Tech: **AI TOOL CHATBOT MACHINE LEARNING**
 
