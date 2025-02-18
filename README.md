@@ -31,4 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=withmubashir&show_icons=true&locale=en&layout=compact" alt="withmubashir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=withmubashir&show_icons=true&locale=en" alt="withmubashir" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=withmubashir&" alt="withmubashir" /></p>
